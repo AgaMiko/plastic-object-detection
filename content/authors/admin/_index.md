@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Women in Machine Learning and Data Science
 
 # Is this the primary user of the site?
 superuser: true
