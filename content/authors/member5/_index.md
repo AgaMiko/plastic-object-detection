@@ -4,10 +4,10 @@ name: In progress
 
 # Username (this should match the folder name)
 authors:
-- member1
+- member5
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: 
