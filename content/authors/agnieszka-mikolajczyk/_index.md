@@ -75,3 +75,4 @@ user_groups:
 
 Author of scientific papers and publications interested in the issue of machine learning, explainable AI, image analysis as the way of improving people’s everyday life. A PhD student who cares about the further development and training opportunities within interests. 
 
+[**Click here to visit her website**](https://amikolajczyk.netlify.app/)
