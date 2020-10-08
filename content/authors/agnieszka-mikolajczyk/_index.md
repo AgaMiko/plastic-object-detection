@@ -67,7 +67,9 @@ social:
 email: ""
 
 # Organizational groups that you belong to (for People widget)
-user_groups = ["Organizers", "Team"]
+user_groups:
+ - Organizers
+ - Team
 
 ---
 
