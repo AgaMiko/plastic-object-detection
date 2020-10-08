@@ -1,6 +1,6 @@
 ---
 # Display name
-name: In progress
+title: In progress
 
 # Username (this should match the folder name)
 authors:

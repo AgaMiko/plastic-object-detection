@@ -1,5 +1,6 @@
 ---
 # Display name
+title: Pedro F. Proença
 name: Pedro F. Proença
 
 # Username (this should match the folder name)
