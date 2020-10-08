@@ -4,7 +4,7 @@ name: Pedro F. Proença
 
 # Username (this should match the folder name)
 authors:
-- pedro-proenca
+- Name: "Pedro F. Proença"
 
 # Is this the primary user of the site?
 superuser: false

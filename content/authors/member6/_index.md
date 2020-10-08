@@ -4,7 +4,7 @@ name: In progress
 
 # Username (this should match the folder name)
 authors:
-- member6
+- Name: "member6"
 
 # Is this the primary user of the site?
 superuser: false

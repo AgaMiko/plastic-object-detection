@@ -6,7 +6,7 @@ title: TACO
 superuser: false
 
 authors:
-- taco
+- Name: "taco"
 
 # Role/position
 role: Trash Annotations in Context

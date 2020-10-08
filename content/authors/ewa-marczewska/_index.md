@@ -4,7 +4,7 @@ name: Ewa Marczewska
 
 # Username (this should match the folder name)
 authors:
-- ewa-marczewska
+- Name: "Ewa Marczewska"
 
 # Is this the primary user of the site?
 superuser: false

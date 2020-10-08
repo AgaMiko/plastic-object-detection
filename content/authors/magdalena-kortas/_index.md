@@ -4,7 +4,7 @@ name: Magdalena Kortas
 
 # Username (this should match the folder name)
 authors:
-- magdalena-kortas
+- Name: "Magdalena Kortas"
 
 # Is this the primary user of the site?
 superuser: true

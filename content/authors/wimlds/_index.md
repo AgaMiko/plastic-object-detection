@@ -8,6 +8,10 @@ superuser: false
 # Role/position
 role: Trójmiasto
 
+# Username (this should match the folder name)
+authors:
+- Name: "WiMLDS"
+
 # Organizations/Affiliations
 organizations:
 - name: WiMLDS Gdańsk

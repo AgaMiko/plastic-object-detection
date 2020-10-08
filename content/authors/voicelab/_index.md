@@ -7,7 +7,7 @@ superuser: false
 
 # Username (this should match the folder name)
 authors:
-- voicelab
+- Name: "voicelab"
 
 # Role/position
 role: VoiceLab.AI - Conversational Intelligence
