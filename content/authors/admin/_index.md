@@ -6,7 +6,7 @@ title: Women in Machine Learning and Data Science
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Trójmiasto
 
 # Organizations/Affiliations
 organizations:
