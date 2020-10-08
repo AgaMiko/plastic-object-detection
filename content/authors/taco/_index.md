@@ -5,6 +5,9 @@ title: TACO
 # Is this the primary user of the site?
 superuser: false
 
+authors:
+- taco
+
 # Role/position
 role: Trash Annotations in Context
 
