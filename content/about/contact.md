@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "Contact"
+subtitle = "Plastic Object Detection - AI4Good"
 
 # Automatically link email and phone?
 autolink = true
