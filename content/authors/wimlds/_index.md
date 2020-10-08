@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Plastic object detection
+title: Women in Machine Learning and Data Science
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: WiMLDS Project Trójmiasto - AI4Good
+role: Trójmiasto
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Detect plastic (and other) waste in environment
+bio: 
 
 #interests:
 #- Artificial Intelligence
@@ -58,24 +58,8 @@ social:
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
- - Project
+ - Partners
 
 ---
 
-We come back with a new educational project from the AI for Good! 
-
-This time we will focus on the problem of plastics in the environment. For 5 months (October-February) we will learn together and work on a model for plastic trash detection. The project is aimed at people from Tri-City, with at least intermediate Python knowledge and basic experience in Deep Learning. 
-
-During 5 months we will work in two-week sprints. Physical meetings will take place every two weeks in Gdansk (on Tuesdays at 18), apart from that there will be an office for stationary work and mentor support. In case of an acute epidemiological situation, the meetings will be held online.
-
-The project will be attended by up to 10 participants supported by mentors (employees of StyleSage, Voicelab, BrainScan and NASA).*
-
-Data: we will use TACO DATASET (tacodataset.org).
-
-* The project has no form of training, it is a team work during which we develop and learn together with the support of mentors. There will be introductory workshops on topics, technologies and libraries conducted by participants and mentors.  
-
-Schedule:
-* 18.10.2020 - end of application acceptance
-* 20.10.2020 - notification of selected persons (and persons on the reserve list)
-* 27.10.2020 - project launch
-
+WiMLDS's mission is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science. We create opportunities for members to engage in technical and professional conversations in a positive, supportive environment by hosting talks by women and gender minority individuals working in data science or machine learning, technical workshops, networking events and hackathons. We are inclusive to anyone who supports our cause regardless of gender identity or technical background. However, in support of our mission, priority for certain events and opportunities will be given to women and gender minority members.
