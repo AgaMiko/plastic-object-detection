@@ -72,8 +72,7 @@ email: ""
 user_groups:
  - Mentors
  
- ---
-# Info
+---
 
 Arkadiusz Kwasigroch is a machine learning researcher at a Gdańsk University of Technology. His main interests include deep learning and computer vision.
 
