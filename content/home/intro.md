@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
-title = "✏️ Blog Template"
-subtitle = "For [Academic Website Builder](https://sourcethemes.com/academic/)"
+title = "Plastic object detection"
+subtitle = "AI4Good project for detecting waste in environment"
 
 [design.background]
   # Background color.
