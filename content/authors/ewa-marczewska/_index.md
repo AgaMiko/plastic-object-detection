@@ -21,11 +21,9 @@ organizations:
 bio: Curious, inquisitive and passionate Data Wrangler. Experience in conceptual work as a philosopher and planner, with knowledge of solving multi-layers processes. Mainly work with data-driven visualizations and data storytelling. PhD thesis on using space syntax methodology in creating design for all environment. Responsible for cooperating in Women in Machine Learning & Data Science local chapter. Fluent in SQL, Tableau, R, Shiny, Python, Machine Learning.
 
 interests:
+- Data Science
 - xx
 - xx
-- xx
-
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,7 +35,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/AgnMikolajczyk
+  link: xxx
 - icon: github
   icon_pack: fab
   link: https://github.com/ewkerez
