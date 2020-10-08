@@ -68,7 +68,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
 user_groups = ["Organizers", "Team"]
+
 ---
 
 Author of scientific papers and publications interested in the issue of machine learning, explainable AI, image analysis as the way of improving people’s everyday life. A PhD student who cares about the further development and training opportunities within interests. 
