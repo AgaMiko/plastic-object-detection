@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Arkadiusz Kwasigroch"
+title: "Arkadiusz Kwasigroch"
 
 # Username (this should match the folder name and the name on publications)
 authors:

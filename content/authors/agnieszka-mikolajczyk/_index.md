@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Agnieszka Mikołajczyk
+title: Agnieszka Mikołajczyk
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Magdalena Kortas
+title: Magdalena Kortas
 
 # Username (this should match the folder name)
 authors:
