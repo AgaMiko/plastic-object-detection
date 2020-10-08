@@ -57,8 +57,8 @@ social:
 #email: ""
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Sponors"]
+user_groups = ["Organizers", "Team"]
+
 ---
 
 WiMLDS's mission is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science. We create opportunities for members to engage in technical and professional conversations in a positive, supportive environment by hosting talks by women and gender minority individuals working in data science or machine learning, technical workshops, networking events and hackathons. We are inclusive to anyone who supports our cause regardless of gender identity or technical background. However, in support of our mission, priority for certain events and opportunities will be given to women and gender minority members.

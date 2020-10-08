@@ -10,32 +10,22 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate & Machine Learning Enthusiast
+role: Data Scientist, Co-funder of WIML&DS Trojmiasto
 
 # Organizations/Affiliations
 organizations:
-- name: Gdańsk University of Technology
-  url: "https://pg.edu.pl/welcome?p_l_id=52858455&p_v_l_s_g_id=0&"
+- name: Hapag-Lloyd AG & WiMLDS Trójmiasto
+  url: "http://wimlds.org/about-the-trojmiasto-team/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Author of scientific papers and publications interested in the issue of machine learning, explainable AI, image analysis as the way of improving people’s everyday life. A PhD student who cares about the further development and training opportunities within interests. 
+bio: Curious, inquisitive and passionate Data Wrangler. Experience in conceptual work as a philosopher and planner, with knowledge of solving multi-layers processes. Mainly work with data-driven visualizations and data storytelling. PhD thesis on using space syntax methodology in creating design for all environment. Responsible for cooperating in Women in Machine Learning & Data Science local chapter. Fluent in SQL, Tableau, R, Shiny, Python, Machine Learning.
 
 interests:
-- Explainable Artificial Intelligence
-- Image Analysis
-- Deep Learning
+- xx
+- xx
+- xx
 
-education:
-  courses:
-  - course: PhD in Machine Learning
-    institution: Gdańsk University of Technology
-    year: 2017 - 2021
-  - course: MEng in Control Theory
-    institution: Gdańsk University of Technology
-    year: 2016 - 2017
-  - course: BSc in Automation Control and Robotics
-    institution: Gdańsk University of Technology
-    year: 2012 - 2016
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,15 +38,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AgnMikolajczyk
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.pl/citations?user=VFMjpTsAAAAJ&hl=pl
 - icon: github
   icon_pack: fab
-  link: https://github.com/AgaMiko
+  link: https://github.com/ewkerez
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/agnieszkamikolajczyk/
+  link: https://www.linkedin.com/in/ewamarczewska/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +56,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups = ["Organizers", "Team"]
+
 ---
 
-Author of scientific papers and publications interested in the issue of machine learning, explainable AI, image analysis as the way of improving people’s everyday life. A PhD student who cares about the further development and training opportunities within interests. 
-
+Ewa is a philosopher and planner by education, passionate analyst. Would like to translate many years of experience in conceptual work and knowledge of solving multi-layers processes for the field of data science. Passionate about developing in a new direction, having experience in analytics, organizing processes and participatory work. Ewa mainly work with data-driven visualizations and data storytelling. Also working on PhD thesis using space syntax methodology in creation design for all environment. Ewa wants to encourage other women to join the ML/DS local community.

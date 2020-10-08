@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: xxxxx
+role: Data Scientist | Women in Machine Learning & Data Science Poland | AI4Good Machine Learning Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: "https://pg.edu.pl/welcome?p_l_id=52858455&p_v_l_s_g_id=0&"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Author of scientific papers and publications interested in the issue of machine learning, explainable AI, image analysis as the way of improving people’s everyday life. A PhD student who cares about the further development and training opportunities within interests. 
+bio: Data Scientist in Data Engineering team working on data in the travel industry. Active AI4Good Machine Learning Engineer.
 
 interests:
-- Explainable Artificial Intelligence
-- Image Analysis
-- Deep Learning
+- xx
+- xxx
+- xx
 
 education:
   courses:
@@ -45,18 +45,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/AgnMikolajczyk
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.pl/citations?user=VFMjpTsAAAAJ&hl=pl
 - icon: github
   icon_pack: fab
-  link: https://github.com/AgaMiko
+  link: https://github.com/m-kortas
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/agnieszkamikolajczyk/
+  link: https://www.linkedin.com/in/mkortas/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +63,17 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups = ["Organizers", "Team"]
+
 ---
 
-Author of scientific papers and publications interested in the issue of machine learning, explainable AI, image analysis as the way of improving people’s everyday life. A PhD student who cares about the further development and training opportunities within interests. 
+Once I wanted to travel the world to discover the world. But I realized that everything has been already discovered. Then I decided to become a Data Scientist to discover what was left to discover.
 
+AI for Good & Data storytelling enthusiast and a traveler with a wide international experience.
+
+Skills: Machine Learning, Deep Learning, Neural Networks, Natural Language Processing, Visualization, Statistics, ETL pipelines, Data Analysis, Data Processing, Artificial Intelligence, Communication
+
+Stack: Python, R, SQL, Tableau, Airflow, CSS, HTML
+
+Python Stack: TensorFlow, Scikit-learn, Keras, Pandas, Plotly, Matplotlib, Flask, Dash, NumPy, Seaborn, Gensim, NLTK
+
+R Stack: Dplyr, tidyr, ggplot2, Shiny, Lubridate, DT, plotly, e1071, stringr, data.table, caret
