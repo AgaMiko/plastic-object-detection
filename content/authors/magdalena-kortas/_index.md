@@ -13,9 +13,9 @@ superuser: true
 role: Data Scientist | Women in Machine Learning & Data Science Poland | AI4Good Machine Learning Engineer
 
 # Organizations/Affiliations
-organizations:
-- name: FirmA
-  url: "https://pg.edu.pl/welcome?p_l_id=52858455&p_v_l_s_g_id=0&"
+#$organizations:
+#- name: FirmA
+#  url: "https://pg.edu.pl/welcome?p_l_id=52858455&p_v_l_s_g_id=0&"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Data Scientist in Data Engineering team working on data in the travel industry. Active AI4Good Machine Learning Engineer.
