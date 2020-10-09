@@ -8,7 +8,7 @@ weight = 20  # Order that this section will appear.
 title = "Join us now!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "sunset.jpg"
+hero_media = "hero.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
