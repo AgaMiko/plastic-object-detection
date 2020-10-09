@@ -22,9 +22,9 @@ bio: NLP and Deep Learning Expert. Implementing cutting-edge research ideas in b
 
 # List each interest with a dash
 interests:
- - Natural Language Processing
- - Conversational Intelligence
- - Deep Learning
+- Natural Language Processing
+- Conversational Intelligence
+- Deep Learning
 
 # education:
 #   courses:

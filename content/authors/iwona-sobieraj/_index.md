@@ -21,10 +21,10 @@ role: Data Scientist at StyleSage
 bio: xxx
 
 # List each interest with a dash
- interests:
- - Machine Listening
- - Matrix factorization
- - Deep Learning
+interests:
+- Machine Listening
+- Matrix factorization
+- Deep Learning
 
 # education:
 #   courses:
