@@ -8,7 +8,7 @@ weight = 20  # Order that this section will appear.
 title = "Join us now!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero.png"
+# hero_media = "hero.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -53,4 +53,4 @@ hero_media = "hero.png"
 
 **Learn more, waste less!**
 
-Build with us a model to detect waste in environment. 
+Build with us deep learning-based model to detect waste in environment. 
