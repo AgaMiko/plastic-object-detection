@@ -18,10 +18,10 @@ role: Tech Lead w VoiceLab.AI - Conversational Intelligence
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Natural Language Processing and Deep Learning Expert. Implementing cutting-edge research ideas in business projects. Currently pursuing a PhD degree at University of Wrocław. 
+bio: NLP and Deep Learning Expert. Implementing cutting-edge research ideas in business projects. Currently pursuing a PhD degree at University of Wrocław.
 
 # List each interest with a dash
- interests:
+interests:
  - Natural Language Processing
  - Conversational Intelligence
  - Deep Learning
