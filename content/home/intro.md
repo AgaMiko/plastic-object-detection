@@ -10,7 +10,7 @@ subtitle = "AI4Good project for detecting waste in environment"
 
 [design.background]
   # Background color.
-  color = "#788175"
+  color = "#264653"
 
   # Text color (true=light or false=dark).
   text_color_light = true

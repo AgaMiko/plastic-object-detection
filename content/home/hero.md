@@ -20,8 +20,8 @@ hero_media = "hero-academic.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#f8ad9d"
+  gradient_end = "#f08080"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -40,7 +40,7 @@ hero_media = "hero-academic.png"
   url = "https://docs.google.com/forms/d/e/1FAIpQLScj9WY-bbxRJXXRbx9WsgXG9HBvunEMq6bYOVTBR3lqC-hpsA/viewform?fbzx=8259687669376757529"
   label = "Apply here"
   icon_pack = "fas"
-  icon = "clipboard-check"
+  icon = "clock"
   
 [cta_alt]
   url = "http://tacodataset.org/"
@@ -48,9 +48,9 @@ hero_media = "hero-academic.png"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+  label = "Apply until 18.10.2020"
 +++
 
 **Learn more, waste less!**
 
-Build with us a model to detect waste in environment. Apply until 18.10.2020
+Build with us a model to detect waste in environment. 
