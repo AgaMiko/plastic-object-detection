@@ -5,9 +5,12 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear in.
 
-title = "What and why?"
+title = ""
 subtitle = ""
-
+[[item]]
+  title = "What and why?"
+  align = "center"  
+  
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
