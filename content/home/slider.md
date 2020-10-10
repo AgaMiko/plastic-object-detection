@@ -15,7 +15,7 @@ height = ""
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
-[[item]]
+[item]
   title = "Plastic object detection"
   content = "AI4Good project for detecting waste in environment"
   align = "center"  
@@ -26,7 +26,7 @@ height = ""
   overlay_img = "waste.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-[[item]]
+[item]
   title = "Learn more, waste less"
   content = "Ten people, five months, Tri-City"
   align = "left"
