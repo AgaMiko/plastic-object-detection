@@ -18,8 +18,8 @@ height = ""
 [[item]]
   title = "Plastic object detection"
   content = "AI4Good project for detecting waste in environment"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
+  align = "center"  
+  # Choose `center`, `left`, or `right`.
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
