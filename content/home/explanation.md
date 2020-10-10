@@ -5,12 +5,9 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear in.
 
-title = ""
+title = "What and why?"
 subtitle = ""
-[[item]]
-  title = "What and why?"
-  align = "center"  
-  
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
@@ -18,8 +15,9 @@ subtitle = ""
   
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["40px", "0", "40px", "0"]
+  padding = ["60px", "0", "20px", "0"]
 +++
+
 
 Disposal of plastics is difficult, and the costs and risks associated with the masses of plastic garbage are even difficult to estimate. 
 Plastic is everywhere, we constantly use it in our daily life.
