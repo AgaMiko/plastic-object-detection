@@ -22,8 +22,7 @@ bio: Curious, inquisitive and passionate Data Wrangler. Experience in conceptual
 
 interests:
 - Data Science
-- xx
-- xx
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

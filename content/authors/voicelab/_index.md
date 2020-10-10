@@ -54,4 +54,4 @@ Using our technologies we have created a number of interesting products, mainly 
 
 VoiceLab solutions are used by thousands of people.
 
-[**More about TACO**](https://voicelab.ai/)
+[**More about Voicelab**](https://voicelab.ai/)
