@@ -1,9 +1,9 @@
 
 # What and why
-widget = "starter.blog.intro"
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
+weight = 11  # Order that this section will appear in.
 
 title = "What and why?"
 # subtitle = "AI4Good project for detecting waste in environment"
