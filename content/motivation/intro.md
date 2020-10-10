@@ -10,7 +10,7 @@ subtitle = "Plastic object detection project in Gdańsk"
 
 [design.background]
   # Background color.
-  color = "#264653"
+ color = "#264653"
  image = "waste.png"  # Name of image in `static/img/`.
  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
  gradient_start = "#f8ad9d"
