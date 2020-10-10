@@ -11,10 +11,11 @@ subtitle = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
+  align = "center"
   
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["40px", "0", "40px", "0"]
 +++
 
 Disposal of plastics is difficult, and the costs and risks associated with the masses of plastic garbage are even difficult to estimate. 
@@ -22,7 +23,7 @@ Plastic is everywhere, we constantly use it in our daily life.
 
 The idea of project is to use Artificial Intelligence to detect plastic waste in an environment. 
 Our solution  will be applicable for video and photography.
-Our goal is to use ** AI for Good **.
+Our goal is to use *AI for Good*.
       
 
 
