@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Dates"
@@ -24,7 +24,7 @@ date_format = "02 Jan 2006"
   company_url = "https://docs.google.com/forms/d/e/1FAIpQLScj9WY-bbxRJXXRbx9WsgXG9HBvunEMq6bYOVTBR3lqC-hpsA/viewform?fbzx=8259687669376757529"
   location = "Gdańsk, Poland"
   date_start = "2020-10-08"
-  date_end = "2020-10-18"
+  date_end = ""
   description = """"""
   
   
@@ -44,7 +44,7 @@ date_format = "02 Jan 2006"
   #company_url = "https://iel.pl/en/home.html"
   location = "Gdańsk, Poland"
   date_start = "2020-10-27"
-  date_end = "2021-11-03"
+  date_end = "2020-11-03"
   description = """"""
 
 [[experience]]
@@ -89,7 +89,7 @@ date_format = "02 Jan 2006"
   company = "Finishing the project"
   #company_url = "https://iel.pl/en/home.html"
   location = "Gdańsk, Poland"
-  date_start = "2020-03-09"
+  date_start = "2021-03-09"
   date_end = "2021-03-23"
   description = "Finishing the project"
 
