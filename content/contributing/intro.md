@@ -11,7 +11,7 @@ subtitle = "Plastic object detection"
 [design.background]
   # Background color.
   color = "#264653"
- image = ""  # Name of image in `static/img/`.
+ image = "turtle.jpg"  # Name of image in `static/img/`.
  image_darken = 0.7  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
  gradient_start = "#f8ad9d"
  gradient_end = "#f08080"
