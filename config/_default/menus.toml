@@ -8,7 +8,7 @@
   url = "/"
   weight = 10
 
- [[main]]
+[[main]]
   name = "Motivation"
   url = "motivation/"
   weight = 20
