@@ -23,3 +23,10 @@ subtitle = "Plastic object detection"
   text_color_light = true
 +++
 
+There are several ways how you can help us:
+
+* Upload your images [[here]](http://tacodataset.org/upload)
+* Annotate dataset [[here]](http://tacodataset.org/annotate)
+* Join our team
+* Contribute on github
+* Promote us on social media
