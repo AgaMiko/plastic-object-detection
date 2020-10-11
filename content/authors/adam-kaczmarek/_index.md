@@ -66,14 +66,7 @@ user_groups:
  
 ---
 
-I am a PhD candidate at the Centre for Vision, Speech and Signal Processing (CVSSP) of the University of Surrey. I have been working under the supervision of Prof. Mark Plumbley.
+NLP and Deep Learning Expert. Implementing cutting-edge research ideas in business projects. 
+Currently pursuing a PhD degree at University of Wrocław.
 
-My main research interest is Machine Listening combining of machine learning and digital signal processing to extract information from sound. In simpler words, I develop methods for making sense of sounds around us, from bird songs to city soundscapes.
-
-I am particularly interested in matrix factorization and deep learning methods.
-
-Before joining CVSSP I worked for 3 years in Samsung Electronics R&D Centre as a software engineer in Natural Language Processing group.
-
-I encourage you to explore my research, publications and code.
-
-[**Click here to visit her website**](https://iwonasob.github.io/)
+#[**Click here to visit his website**](https://iwonasob.github.io/)
