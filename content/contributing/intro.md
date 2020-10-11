@@ -11,7 +11,7 @@ subtitle = "Plastic object detection"
 [design.background]
   # Background color.
   color = "#264653"
- image = "waste.jpg"  # Name of image in `static/img/`.
+ image = ""  # Name of image in `static/img/`.
  image_darken = 0.7  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
  gradient_start = "#f8ad9d"
  gradient_end = "#f08080"
@@ -23,10 +23,3 @@ subtitle = "Plastic object detection"
   text_color_light = true
 +++
 
-There are several ways how you can help us:
-
-* Upload your images [[here]](http://tacodataset.org/upload)
-* Annotate dataset [[here]](http://tacodataset.org/annotate)
-* Join our team
-* Contribute on github
-* Promote us on social media
