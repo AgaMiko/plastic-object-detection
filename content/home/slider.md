@@ -16,7 +16,7 @@ height = "300px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Plastic object detection"
+  title = "Plastic object detection in Pomerania"
   content = "AI4Good project for detecting waste in environment"
   align = "center"  
   overlay_color = "#666"  # An HTML color value.
