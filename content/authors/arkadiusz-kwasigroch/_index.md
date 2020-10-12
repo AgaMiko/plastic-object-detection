@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Machine Learning Researcher
+role: Machine Learning Researcher at Brainscan
 
 # Organizations/Affiliations
 organizations:
@@ -20,29 +20,32 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Arkadiusz Kwasigroch is a machine learning researcher at a Gdańsk University of Technology. His main interests include deep learning and computer vision.
 
-# List each interest with a dash
-# interests:
-# - Interest 1
-# - Interest 2
+interests:
+- Deep learning
+- Python
+- Computer vision
 
-# education:
-#   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+education:
+  courses:
+  - course: Ph.D. in Deep learning
+    institution: Gdańsk University of Technology
+    year: currently
+  - course: MEng in Automatics and Robotics
+    institution: Gdańsk University of Technology
+    year: 2017
+  - course: BSc in Automatics and Robotics
+    institution: Gdańsk University of Technology
+    year: 2016
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/a_kwasigroch
@@ -58,6 +61,7 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Arkadiusz_Kwasigroch
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
