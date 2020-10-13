@@ -9,13 +9,16 @@
   weight = 10
 
 [[main]]
-  name = "About"
-  url = "about/"
-  weight = 20
-
- [[main]]
   name = "Motivation"
   url = "motivation/"
+  weight = 20
+
+[[main]]
+  name = "How to contribute?"
+  url = "contributing/"
   weight = 30
 
-
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = 40

@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Fellow
+role: Postdoctoral Research Fellow, Jet Propulsion Laboratory Caltech / NASA
 
 # Organizations/Affiliations
 organizations:

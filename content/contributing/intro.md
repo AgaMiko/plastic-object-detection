@@ -2,16 +2,16 @@
 # Introduce the blog.
 widget = "starter.blog.intro"
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
-title = "Plastic object detection"
-subtitle = "AI4Good project for detecting waste in environment"
+title = "How to contribute?"
+subtitle = "Plastic object detection"
 
 [design.background]
   # Background color.
   color = "#264653"
- image = "background.jpg"  # Name of image in `static/img/`.
+ image = "turtle.jpg"  # Name of image in `static/img/`.
  image_darken = 0.7  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
  gradient_start = "#f8ad9d"
  gradient_end = "#f08080"

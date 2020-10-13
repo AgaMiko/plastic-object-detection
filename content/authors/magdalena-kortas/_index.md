@@ -21,21 +21,10 @@ role: Data Scientist | Women in Machine Learning & Data Science Poland | AI4Good
 bio: Data Scientist in Data Engineering team working on data in the travel industry. Active AI4Good Machine Learning Engineer.
 
 interests:
-- xx
-- xxx
-- xx
+- Data Science
+- Data Storytelling
+- AI for Good
 
-education:
-  courses:
-  - course: PhD in Machine Learning
-    institution: Gdańsk University of Technology
-    year: 2017 - 2021
-  - course: MEng in Control Theory
-    institution: Gdańsk University of Technology
-    year: 2016 - 2017
-  - course: BSc in Automation Control and Robotics
-    institution: Gdańsk University of Technology
-    year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
