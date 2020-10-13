@@ -68,5 +68,3 @@ user_groups:
 
 NLP and Deep Learning Expert. Implementing cutting-edge research ideas in business projects. 
 Currently pursuing a PhD degree at University of Wrocław.
-
-#[**Click here to visit his website**](https://iwonasob.github.io/)
