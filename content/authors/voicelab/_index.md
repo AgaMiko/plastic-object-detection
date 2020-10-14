@@ -16,11 +16,10 @@ role: VoiceLab.AI - Conversational Intelligence
 bio: VoiceLab is a technology firm from Gdańsk, working on automatic speech recognition (ASR) and natural language understanding (NLU).
 
 interests:
-- Automatic Speech recognition
+- Automatic Speech recognition (ASR)
 - Conversational Intelligence
 - Customer care IVR automation
 - Intent recognition platform
-- Passive voice biometrics
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,13 +44,13 @@ user_groups:
  - Partners
 
 ---
-VoiceLab is a technology firm from Gdańsk, working on automatic speech recognition (ASR) and natural language understanding (NLU).
+VoiceLab is a technology firm from Gdańsk, working on *automatic speech recognition (ASR)* and *natural language understanding (NLU)*.
 
 Our team of high-class specialists is working on improving automatic speech recognition in many languages using large amounts of acoustic and text data.
 
-With the use of deep neural networks, a very large dataset consisting of several thousand hours of hand-labelled data, a number of powerful servers (over 40 GPU cards, HPC), we are building large acoustic models, language models, and dictionaries in many languages. Our main goal is to ​​constantly improve the quality of recognition.
+With the use of deep neural networks, a very large dataset consisting of several thousand hours of hand-labelled data, a number of powerful servers (over 40 GPU cards, HPC), we are building large acoustic models, language models, and dictionaries in many languages. Our main goal is to constantly improve the quality of recognition.
 
-Using our technologies we have created a number of interesting products, mainly in the SaaS model, for automatic speech recognition (smartphone/desktop apps), process automation, Conversational Intelligence, voicebots, and even offline solutions for smart homes - wherever there is a need for speech recognition and language understanding our technology can be applied and used.
+Using our technologies we have created a number of interesting products, mainly in the SaaS model, for automatic speech recognition (smartphone/desktop apps), process automation, Conversational Intelligence, passive voice biometrics, voicebots, and even offline solutions for smart homes - wherever there is a need for speech recognition and language understanding our technology can be applied and used.
 
 VoiceLab solutions are used by thousands of people.
 
