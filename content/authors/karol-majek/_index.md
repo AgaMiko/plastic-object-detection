@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Self-Driving Car Engineer and Mobile Robotics Engineer, owner of Cufix PL
+role: Self-Driving Car Engineer and Mobile Robotics Engineer, Owner of Cufix PL
 
 # Organizations/Affiliations
 organizations:
