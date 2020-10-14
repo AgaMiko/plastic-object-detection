@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate & Machine Learning Enthusiast
+role: Passionate PhD Candidate, ML researcher at Voicelab, PI in pre-doctoral research grant
 
 # Organizations/Affiliations
 organizations:
