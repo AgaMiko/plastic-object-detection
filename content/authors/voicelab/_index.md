@@ -16,6 +16,7 @@ role: VoiceLab.AI - Conversational Intelligence
 bio: VoiceLab is a technology firm from Gdańsk, working on automatic speech recognition (ASR) and natural language understanding (NLU).
 
 interests:
+- Automatic Speech recognition
 - Conversational Intelligence
 - Customer care IVR automation
 - Intent recognition platform
