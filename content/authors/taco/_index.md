@@ -14,6 +14,8 @@ role: Trash Annotations in Context
 # Short bio (displayed in user profile at end of posts)
 bio: TACO is an open image dataset of waste in the wild. It contains photos of litter taken under diverse environments, from tropical beaches to London streets. These images are manually labeled and segmented according to a hierarchical taxonomy to train and evaluate object detection algorithms.
 
+interests:
+- Open image dataset of waste in the wild
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

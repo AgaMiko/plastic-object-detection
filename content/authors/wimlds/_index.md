@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Women in Machine Learning and Data Science
+title: WiMLDS
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Trójmiasto
+role:  Women in Machine Learning and Data Science Trójmiasto
 
 # Username (this should match the folder name)
 authors:
@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Data Science
+- Machine Learning
+- Opportunities creators
 
 #education:
 #  courses:
