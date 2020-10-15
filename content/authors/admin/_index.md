@@ -54,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "wimlds.trojmiasto@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
@@ -62,11 +62,11 @@ user_groups:
 
 ---
 
-We come back with a new educational project from the AI for Good! 
+We come back with a new educational project from the *AI for Good*! 
 
-This time we will focus on the problem of plastics in the environment. For 5 months (October-February) we will learn together and work on a model for plastic trash detection. The project is aimed at people from Tri-City, with at least intermediate Python knowledge and basic experience in Deep Learning. 
+This time we will focus on the problem of plastics in the environment. For *5 months (October-February)* we will learn together and work on a model for plastic trash detection. The project is aimed at people from Tri-City, with at least intermediate Python knowledge and basic experience in Deep Learning. 
 
-During 5 months we will work in two-week sprints. Physical meetings will take place every two weeks in Gdansk (on Tuesdays at 18), apart from that there will be an office for stationary work and mentor support. In case of an acute epidemiological situation, the meetings will be held online.
+During 5 months we will work in two-week sprints. Physical meetings will take place every two weeks in *Gdańsk* (on Tuesdays at 18), apart from that there will be an office for stationary work and mentor support. In case of an acute epidemiological situation, the meetings will be held online.
 
 The project will be attended by up to 10 participants supported by mentors (employees of StyleSage, Voicelab, BrainScan and NASA).*
 
