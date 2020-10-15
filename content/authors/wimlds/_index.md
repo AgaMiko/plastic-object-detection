@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "wimlds.trojmiasto@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
