@@ -37,8 +37,8 @@ title = "Join us now!"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://docs.google.com/forms/d/e/1FAIpQLScj9WY-bbxRJXXRbx9WsgXG9HBvunEMq6bYOVTBR3lqC-hpsA/viewform?fbzx=8259687669376757529"
-  label = "Apply here"
+  url = "https://detectwaste.netlify.app/contributing/"
+  label = "How to contribute"
   icon_pack = "fas"
   icon = "clock"
   
@@ -48,7 +48,7 @@ title = "Join us now!"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = "Apply until 18.10.2020"
+  label = "There are several ways how you can help us"
 +++
 
 **Learn more, waste less!**
