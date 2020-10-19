@@ -24,7 +24,7 @@ date_format = "02 Jan 2006"
   company_url = "https://docs.google.com/forms/d/e/1FAIpQLScj9WY-bbxRJXXRbx9WsgXG9HBvunEMq6bYOVTBR3lqC-hpsA/viewform?fbzx=8259687669376757529"
   location = "Gdańsk, Poland"
   date_start = "2020-10-08"
-  date_end = ""
+  date_end = "2020-10-18"
   description = """"""
   
   
@@ -34,7 +34,7 @@ date_format = "02 Jan 2006"
   #company_url = ""
   #location = "Gdańsk, Poland"
   date_start = "2020-10-18"
-  date_end = "2020-10-20"
+  date_end = ""
   description = """"""
 
 
@@ -43,7 +43,7 @@ date_format = "02 Jan 2006"
   #company = "Institute of Electrical Engineering"
   #company_url = "https://iel.pl/en/home.html"
   location = "Gdańsk, Poland"
-  date_start = "2020-10-27"
+  date_start = "2020-10-20"
   date_end = "2020-11-03"
   description = """"""
 
