@@ -1,10 +1,10 @@
 ---
 # Display name
-title: In progress
+title: Sylwia Majchrowska
 
 # Username (this should match the folder name)
 authors:
-- Name: "member6"
+- Name: "Sylwia Majchrowska"
 
 # Is this the primary user of the site?
 superuser: false

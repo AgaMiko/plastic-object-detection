@@ -26,7 +26,7 @@ education:
   courses:
   - course: Junior Java Developer
     institution: Infoshare Academy Gdańsk 
-    year: 2020 - 2020
+    year: 2020 - present
   - course: Cisco CCNA 
     institution: Gdańsk University 
     year: 2018 - 2019
