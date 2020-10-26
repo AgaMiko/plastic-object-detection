@@ -25,7 +25,7 @@ education:
   courses:
   -course: Junior Java Developer
     institution:Infoshare Academy Gdańsk 
-    year: 2020
+    year: 2020 - 
   -course: Cisco CCNA 
     institution: Gdańsk University 
     year: 2018 - 2019
@@ -47,7 +47,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/katarzynalagocka/
@@ -57,7 +56,6 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
- - Organizers
  - Team
 
 ---
