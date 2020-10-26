@@ -16,16 +16,17 @@ role: Java Developer, Mechatronics Engineer,Psychologist with Ph.D, Cisco Networ
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a mechatronics engineer(Warsaw University of Technology) and I have Ph.D in Psychology(University of Gdańsk).
+
 interests:
-- Data Science,Data Analysis
+- Data Science, Data Analysis
 - Big Data
 - Java,Python programming
 
 education:
   courses:
   -course: Junior Java Developer
-    institution:Infoshare Academy Gdańsk 
-    year: 2020 - 
+    institution: Infoshare Academy Gdańsk 
+    year: 2020 - 2020
   -course: Cisco CCNA 
     institution: Gdańsk University 
     year: 2018 - 2019
@@ -36,10 +37,10 @@ education:
     institution: Warsaw University of Technology
     year: 2014 - 2018
   - course: Statistics Psychology, PhD
-    institution:University of Gdańsk
+    institution: University of Gdańsk
     year: 2008 - 2013
   - course: Psychology ,Master Degree
-    institution:University of Gdańsk
+    institution: University of Gdańsk
     year: 2003 - 2008
 
 # Social/Academic Networking
