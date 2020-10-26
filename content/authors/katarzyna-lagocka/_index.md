@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Katarzyna Łagocka
+title: Katarzyna Łagocka
 
 # Username (this should match the folder name)
 authors:
