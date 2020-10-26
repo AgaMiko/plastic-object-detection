@@ -34,7 +34,7 @@ date_format = "02 Jan 2006"
   #company_url = ""
   #location = "Gdańsk, Poland"
   date_start = "2020-10-18"
-  date_end = ""
+  date_end = "2020-10-20"
   description = """"""
 
 
@@ -43,8 +43,8 @@ date_format = "02 Jan 2006"
   #company = ""
   #company_url = ""
   location = "Gdańsk, Poland"
-  date_start = "2020-10-20"
-  date_end = "2020-11-03"
+  date_start = "2020-10-27"
+  date_end = ""
   description = """"""
 
 [[experience]]
