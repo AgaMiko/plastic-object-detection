@@ -7,35 +7,25 @@ authors:
 - Name: "Marta Plantykow"
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: 
+role: Network Engineer@Intel | Women in AI Poland
 
 # Organizations/Affiliations
-organizations:
-- name: 
-  url: 
+#$organizations:
+#- name: 
+#  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Network Software Developer working on Linux Base Driver for Intel® Ethernet Connection solutions, focusing on eXpress Data Path. In her free time a big fan of Artificial Intelligence.
 
-# interests:
-# - Explainable Artificial Intelligence
-# - Image Analysis
-# - Deep Learning
+interests:
+- Artificial Intelligence
+- True Crime
+- Sketch noting
+- Traveling 
 
-# education:
-#  courses:
-# - course: PhD in Machine Learning
-#   institution: Gdańsk University of Technology
-#   year: 2017 - 2021
-# - course: MEng in Control Theory
-#   institution: Gdańsk University of Technology
-#    year: 2016 - 2017
-#  - course: BSc in Automation Control and Robotics
-#   institution: Gdańsk University of Technology
-#   year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,18 +35,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/AgnMikolajczyk
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.pl/citations?user=VFMjpTsAAAAJ&hl=pl
 - icon: github
   icon_pack: fab
-  link: https://github.com/AgaMiko
+  link: 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/agnieszkamikolajczyk/
+  link: https://www.linkedin.com/in/marta-plantykow-7b4243114/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,11 +51,16 @@ social:
 email: ""
 
 # Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+ - Organizers
  - Team
 
 ---
+Master in computer science from Gdansk University of Technology with 5 years’ experience in Network Software development. Currently working on Linux Base Driver for Intel® Ethernet Connection solutions, focusing on eXpress Data Path. Artificial Intelligence enthusiast. 
 
-In progress
+Skills: Networking, Linux kernel, Machine Learning, Deep Learning, Neural Networks, Artificial Intelligence
 
-#[**Click here to visit her website**](https://amikolajczyk.netlify.app/)
+Soft skills: Teamwork and leadership, Responsibility, Grow mindset, Creativity, Flexibility/Adaptability
+
+Stack: C, Git, Python
