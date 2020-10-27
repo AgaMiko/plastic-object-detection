@@ -7,35 +7,45 @@ authors:
 - Name: "Sylwia Majchrowska"
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: 
+role: Deep Learning Researcher, PhD Candidate in Physics, STEM Teacher
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: 
+- name: NeuroSYS 
+  url: "https://neurosys.com/"
+- name: Wroclaw University of Science and Technology
+  url: "https://pwr.edu.pl/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: PhD student in Physics at Wroclaw University of Science and Technology, and Deep Learning Researcher at NeuroSYS. She is a big fan of Python, eager to learn more about data science and machine learning.
 
-# interests:
-# - Explainable Artificial Intelligence
-# - Image Analysis
-# - Deep Learning
+interests:
+- Computer Vision
+- Domain adaptation and Style Transfer
+- Nonlinear fiber optics
+- Mathematical modelling
 
-# education:
-#  courses:
-# - course: PhD in Machine Learning
-#   institution: Gdańsk University of Technology
-#   year: 2017 - 2021
-# - course: MEng in Control Theory
-#   institution: Gdańsk University of Technology
-#    year: 2016 - 2017
-#  - course: BSc in Automation Control and Robotics
-#   institution: Gdańsk University of Technology
-#   year: 2012 - 2016
+education:
+  courses:
+  - course: PhD in Physics
+    institution: Wroclaw University of Science and Technology
+    year: 2017 - ...
+  - course: MSc in Mathematics
+    institution: University of Wroclaw
+    year: 2016 - 2017
+  - course: MEng in Technical Physics
+    institution: Wroclaw University of Science and Technology
+    year: 2016 - 2017
+  - course: BEng in Technical Physics
+    institution: Wroclaw University of Science and Technology
+    year: 2012 - 2016
+  - course: BS in Mathematics
+    institution: University of Wroclaw
+    year: 2012 - 2016
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,23 +55,20 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/AgnMikolajczyk
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.pl/citations?user=VFMjpTsAAAAJ&hl=pl
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/AgaMiko
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/agnieszkamikolajczyk/
+  link: https://github.com/majsylw
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sylwia-majchrowska/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,6 +79,8 @@ user_groups:
 
 ---
 
-In progress
+Sylwia completed master studies in mathematics at the University of Wrocław, as well as in physics at the Wrocław University of Science and Technology, where she continues her education towards the doctorate degree. Currently she investigates novel nonlinear optical phenomena that occur in multimode optical fibers by developing numerical tools to identify the impact of several modeling approximations for typical experimental parameters. 
+In her professional career, she is designing and developing deep learning algorithms for image processing using neural network models. She was a member of a team working on developing a method to automate the analysis of bacterial colonies on Petri dishes using artificial neural networks and machine learning algorithms, in particular, to classify the type of bacteria and to determine the number of colonies. 
+She is also a mentor in many volunteering programs, in which she teaches programming and tech knowledge at schools to increase interest in the STEM (Science, Technology, Engineering, Mathematics) area among children.
 
-#[**Click here to visit her website**](https://amikolajczyk.netlify.app/)
+[**Click here to visit her website**](https://majsylw.netlify.app/)
