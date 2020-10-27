@@ -25,17 +25,17 @@ bio: Artificial Inteligence enthusiast interested in machine learning. A PhD stu
 # - Deep Learning
 # - Technological progress in medicine
 
-# education:
-#  courses:
-# - course: PhD in Machine Learning
-#   institution: Gdańsk University of Technology
-#   year: 2020 - 
-# - course: MSc in Applied Automation Control and Robotics
-#   institution: Warsaw University of Technology
-#   year: 2018 - 2019
-# - course: BSc in Automation Control and Robotics
-#   institution: Warsaw University of Technology
-#   year: 2014 - 2018
+education:
+  courses:
+ - course: PhD in Machine Learning
+   institution: Gdańsk University of Technology
+   year: 2020 - present
+ - course: MSc in Applied Automation Control and Robotics
+   institution: Warsaw University of Technology
+   year: 2018 - 2019
+ - course: BSc in Automation Control and Robotics
+   institution: Warsaw University of Technology
+   year: 2014 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
