@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Maria Ferlin"
+title: Maria Ferlin
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ role: ML enthusiast, PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: Gdańsk University of Technology
-  url: https://pg.edu.pl/en
+  url: "https://pg.edu.pl/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Artificial Inteligence enthusiast interested in machine learning. A PhD student who wants to use technology to help people and develop her knowledge in this field.
@@ -61,6 +61,6 @@ email: ""
 user_groups:
  - Team
  
- ---
+---
 
 Artificial Inteligence enthusiast interested in machine learning. A PhD student who wants to use technology to help people and develop her knowledge in this field.
