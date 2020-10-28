@@ -67,7 +67,7 @@ user_groups:
 
 ---
 
-Project Manager with many years of experience.Focused on achieving strategic goals, while maintaining the best interpersonal relations. Author of scientific papers, publications and reports regarding environmental aspects, wastes and soil. 
+Developer of maintenance services in the field of conversational AI and detecting objects in images. PhD and author of three books, publications in the field of AI / ML, speaker at leading universities, incl. MIT, University of Cambridge, Osaka City University, Imperial College of London. 
 
 Interested in:
 * Deep Learning Computer Vision
