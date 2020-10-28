@@ -7,10 +7,10 @@ authors:
 - Name: "Monika Nawrocka"
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: 
+role: PhD, Machine Learning Engineer w Bank Millennium 
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,22 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Developer of maintenance services in the field of conversational AI and detecting objects in images. PhD and author of three books, publications in the field of AI / ML, speaker at leading universities, incl. MIT, University of Cambridge, Osaka City University, Imperial College of London. 
 
-# interests:
-# - Explainable Artificial Intelligence
-# - Image Analysis
-# - Deep Learning
+interests:
+- Deep Learning Computer Vision
+- Chabot web applications
+- Augmented Random Search
 
-# education:
-#  courses:
-# - course: PhD in Machine Learning
-#   institution: Gdańsk University of Technology
-#   year: 2017 - 2021
-# - course: MEng in Control Theory
-#   institution: Gdańsk University of Technology
-#    year: 2016 - 2017
-#  - course: BSc in Automation Control and Robotics
-#   institution: Gdańsk University of Technology
-#   year: 2012 - 2016
+education:
+  courses:
+  - course: Management (BSc)
+    institution: John Paul II Catholic University of Lublin
+  - course: Economy (MSc)
+    institution: John Paul II Catholic University of Lublin
+  - course: Mathematical Optimization In The Training Process (PhD)
+    institution: The Jerzy Kukuczka Academy of Physical Education
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,19 +42,16 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:anna.mykowska@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/AgnMikolajczyk
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.pl/citations?user=VFMjpTsAAAAJ&hl=pl
+  link: https://twitter.com/MonikaNawrocka5
 - icon: github
   icon_pack: fab
-  link: https://github.com/AgaMiko
+  link: https://github.com/MonikaNawrocka-ML
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/agnieszkamikolajczyk/
+  link: https://www.linkedin.com/in/monika-nawrocka-phd-8866a791/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +67,12 @@ user_groups:
 
 ---
 
-In progress
+Project Manager with many years of experience.Focused on achieving strategic goals, while maintaining the best interpersonal relations. Author of scientific papers, publications and reports regarding environmental aspects, wastes and soil. 
 
-#[**Click here to visit her website**](https://amikolajczyk.netlify.app/)
+Interested in:
+* Deep Learning Computer Vision
+* Chabot web applications
+* Augmented Random Search
+* Books (novels)
+* Sports (running, strength sports)
+
