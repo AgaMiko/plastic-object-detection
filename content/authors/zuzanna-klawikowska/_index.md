@@ -10,32 +10,30 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: ML enthusiast, MEng in progress
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: 
+- name: Gdańsk University of Technology
+  url: "https://pg.edu.pl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: A MEng student. Author of two publications. Artificial Intelligence enthusiast focused on medical applications.
 
-# interests:
-# - Explainable Artificial Intelligence
-# - Image Analysis
-# - Deep Learning
 
-# education:
-#  courses:
-# - course: PhD in Machine Learning
-#   institution: Gdańsk University of Technology
-#   year: 2017 - 2021
-# - course: MEng in Control Theory
-#   institution: Gdańsk University of Technology
-#    year: 2016 - 2017
-#  - course: BSc in Automation Control and Robotics
-#   institution: Gdańsk University of Technology
-#   year: 2012 - 2016
+interests:
+- Artificial Intelligence
+- Computer Vision
+
+education:
+  courses:
+  - course: MEng in Automation, Robotics and Control Systems,
+    specialization: Control and Decision Support Systems
+    institution: Gdańsk University of Technology
+    year: 2020 - 2021
+  - course: BSc in Automation Control and Robotics
+    institution: Gdańsk University of Technology
+    year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,19 +42,10 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/AgnMikolajczyk
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.pl/citations?user=VFMjpTsAAAAJ&hl=pl
+  link: 'mailto:zklawikowska97@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/AgaMiko
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/agnieszkamikolajczyk/
+  link: https://github.com/zklaw
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +61,9 @@ user_groups:
 
 ---
 
-In progress
+A MEng student. Author of two publications. Artificial Intelligence enthusiast focused on medical applications.
 
-#[**Click here to visit her website**](https://amikolajczyk.netlify.app/)
+Interested in:
+* Artificial Intelligence
+* Computer Vision
+* Pole Dance, aerial hoop and boxing
