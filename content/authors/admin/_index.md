@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Plastic object detection
+title: Detect waste project
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,24 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Detect plastic (and other) waste in environment
-
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
-
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+bio: Detect waste in the  environment
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -74,8 +57,4 @@ Data: we will use TACO DATASET (tacodataset.org).
 
 * The project has no form of training, it is a team work during which we develop and learn together with the support of mentors. There will be introductory workshops on topics, technologies and libraries conducted by participants and mentors.  
 
-Schedule:
-* 18.10.2020 - end of application acceptance
-* 20.10.2020 - notification of selected persons (and persons on the reserve list)
-* 27.10.2020 - project launch
 

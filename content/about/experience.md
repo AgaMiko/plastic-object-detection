@@ -53,7 +53,7 @@ date_format = "02 Jan 2006"
   #company_url = ""
   location = "Gdańsk, Poland"
   date_start = "2020-11-03"
-  date_end = ""
+  date_end = "2020-11-24"
   description = "Getting to know TACO dataset, statistical analyzes"
 
 [[experience]]
@@ -62,7 +62,7 @@ date_format = "02 Jan 2006"
   #company_url = ""
   location = "Gdańsk, Poland"
   date_start = "2020-11-24"
-  date_end = "2020-12-29"
+  date_end = ""
   description = "Literature review, basic models and common solutions"
   
 [[experience]]
