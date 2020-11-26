@@ -26,4 +26,6 @@ Our solution  will be applicable for video and photography.
 Our goal is to use *AI for Good*.
       
 
-
+<video>
+    <source src="https://drive.google.com/file/d/1S0IR_QW1fFLSDJLXb8S-PNWLwNOWd-jH/preview" type='video/mp4'>
+</video>
