@@ -23,7 +23,11 @@ Today, more than 300 million tons of plastic are produced annually. Plastic is e
 
 The idea of *Plastic object detection project* is to use Artificial Intelligence to detect plastic waste in the environment. 
 Our solution  will be applicable for video and photography.
+
 Our goal is to use *AI for Good*.
       
+      
 
-<video src="https://drive.google.com/file/d/1rfHDGQdofGh9bx_Yp3QvOM1yOGlRwkFm/" type="video/mp4" controls autoplay muted> Video tag not supported</video>
+<iframe src="https://drive.google.com/file/d/1S0IR_QW1fFLSDJLXb8S-PNWLwNOWd-jH/preview" width="1200" height="700"></iframe>
+
+
