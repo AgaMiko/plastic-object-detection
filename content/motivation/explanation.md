@@ -26,4 +26,4 @@ Our solution  will be applicable for video and photography.
 Our goal is to use *AI for Good*.
       
 
-<video src="https://drive.google.com/file/d/1S0IR_QW1fFLSDJLXb8S-PNWLwNOWd-jH/preview" type="video/mp4" controls autoplay muted> Video tag not supported</video>
+<video src="https://drive.google.com/file/d/1rfHDGQdofGh9bx_Yp3QvOM1yOGlRwkFm/" type="video/mp4" controls autoplay muted> Video tag not supported</video>
