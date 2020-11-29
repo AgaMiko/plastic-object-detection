@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
-title = "Plastic object detection"
+title = "Detect waste"
 subtitle = "AI4Good project for detecting waste in environment"
 
 [design.background]

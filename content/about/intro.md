@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
 title = "Learn more, waste less"
-subtitle = "Plastic object detection in Gdańsk"
+subtitle = "Detect waste with AI in Gdańsk"
 
 [design.background]
   # Background color.

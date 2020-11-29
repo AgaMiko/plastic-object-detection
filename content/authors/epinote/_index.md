@@ -26,14 +26,15 @@ user_groups:
 
 ---
 
-We support companies in a broad range of AI and Data Science projects. We help with data annotation of 3D & 2D images, videos, text & voice and provide supplementary data services: tabular data management, data collection, cleansing, structuring and analysis.
+Epinote is a European data annotation boutique. We provide high-quality labeling, data collection and other data-related services.
+
+Epinote was created by tech enthusiasts with various backgrounds. Our management team consists of Machine Learning specialists with a track record of successes in international competitions proven by Kaggle Master belt, as well as Management Consultants with experience in strategy, technology and operations projects. Such mix ensures that we truly understand your needs from both technical and business perspectives.
+
+Our clients range from startups leveraging state-of-the-art Machine Learning solutions to large corporations and top consulting companies. We treat each Client individually ensuring substantial cost savings and lifting the burden off data scientists.
+
+Epinote is quite different from other annotation companies. We never compromise on quality and always aim to deliver great service along with affordable pricing. We also leverage our experience to ensure rapid project setup, flawless communication and seamless  workforce management. Striving to deliver extra value is in our DNA - we are delighted to assist you anytime on literally any analytical problem that you might face. We are always available for consultations whether it is a matter of toolkit choice or process optimization!
+
+Learn more about us on [www.epinote.ai](https://epinote.ai/) or simply contact Mateusz (wiklo@epinote.ai) 
 
 
-### Our services
-Our numerous workforce of skilled annotators and data analysts supported by cutting edge tech enables us to manage even the largest data volumes
-in a short time.
-Our competences also involve development
-& implementation of Computer Vision solutions.
-So we can also lead & deliver AI/ CV projects for your business using state of the art technology.
 
-[**More about epinote.ai**](https://epinote.ai/)
