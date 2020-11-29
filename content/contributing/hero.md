@@ -46,9 +46,6 @@ title = "Join us now!"
   url = "http://tacodataset.org/"
   label = "See dataset"
 
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = "Apply until 18.10.2020"
 +++
 
 **Learn more, waste less!**

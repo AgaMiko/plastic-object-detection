@@ -9,16 +9,21 @@
   weight = 10
 
 [[main]]
+  name = "Waste catogries"
+  url = "/waste-categories"
+  weight = 20
+
+[[main]]
   name = "Motivation"
   url = "motivation/"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "How to contribute?"
   url = "contributing/"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "About"
   url = "about/"
-  weight = 40
+  weight = 50
