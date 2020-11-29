@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Waste catogries"
+  name = "Waste categories"
   url = "/waste-categories"
   weight = 20
 
