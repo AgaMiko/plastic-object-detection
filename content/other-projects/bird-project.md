@@ -27,7 +27,7 @@ Are you curious about the solution that has been built? We invite you to travel 
 
 Project's website: https://wimlds.voicelab.ai/
 
-More about the project: https://miro.medium.com/max/2400/0*QgO58OBJUzpPAM6Q
+More about the project: [](https://towardsdatascience.com/sound-based-bird-classification-965d0ecacb2b)
 
 Github repository: https://github.com/wimlds-trojmiasto/birds
 

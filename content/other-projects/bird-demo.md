@@ -37,7 +37,7 @@ title = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://miro.medium.com/max/2400/0*QgO58OBJUzpPAM6Q"
+  url = "https://towardsdatascience.com/sound-based-bird-classification-965d0ecacb2b"
   label = "Read more about"
   icon_pack = "fab"
   icon = "readme"
