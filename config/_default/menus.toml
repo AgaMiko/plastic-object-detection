@@ -7,15 +7,15 @@
   name = "Home"
   url = "/"
   weight = 10
+  
+[[main]]
+  name = "About the project"
+  url = "about/"
+  weight = 20
 
 [[main]]
   name = "Waste categories"
   url = "/waste-categories"
-  weight = 20
-
-[[main]]
-  name = "Motivation"
-  url = "motivation/"
   weight = 30
 
 [[main]]
@@ -24,6 +24,6 @@
   weight = 40
 
 [[main]]
-  name = "About"
-  url = "about/"
+  name = "Other projects"
+  url = "other-projects/"
   weight = 50
