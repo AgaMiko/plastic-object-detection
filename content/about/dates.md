@@ -70,8 +70,8 @@ date_format = "02 Jan 2006"
   company = ""
   #company_url = ""
   location = "Gdańsk, Poland"
-  date_start = "2020-12-29"
-  date_end = "2021-02-23"
+  date_start = "2020-01-05"
+  date_end = "2021-01-19"
   description = "Going deeper - advanced models and applying to video"
   
 [[experience]]
@@ -79,8 +79,8 @@ date_format = "02 Jan 2006"
   company = ""
   #company_url = ""
   location = "Gdańsk, Poland"
-  date_start = "2021-02-23"
-  date_end = "2021-03-09"
+  date_start = "2021-19-01"
+  date_end = "2021-02-02"
   description = "Finishing the project"
 
 
@@ -89,8 +89,8 @@ date_format = "02 Jan 2006"
   company = "Finishing the project"
   #company_url = ""
   location = "Gdańsk, Poland"
-  date_start = "2021-03-09"
-  date_end = "2021-03-23"
+  date_start = "2021-02-02"
+  date_end = "2021-02-16"
   description = "Finishing the project"
 
 +++
