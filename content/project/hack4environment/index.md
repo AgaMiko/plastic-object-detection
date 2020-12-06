@@ -8,7 +8,7 @@ summary: "Hackathon. Let's do something for our environment."
 authors: [wimlds, dih, voicelab]
 tags: [hackathon, Deep Learning]
 categories: []
-date: 2020-01-20T16:06:02+01:00
+date: 2021-01-20T16:06:02+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
