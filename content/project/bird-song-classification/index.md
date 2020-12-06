@@ -24,6 +24,11 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+  - icon_pack: fas
+    icon: dove
+    name: Project's website
+    url: 'https://wimlds.voicelab.ai/'
+    
   - icon_pack: fab
     icon: medium
     name: Originally published on Medium
