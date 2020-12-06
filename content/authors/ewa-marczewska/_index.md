@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data Scientist, Co-funder of WIML&DS Trojmiasto
+role: Data Scientist in Hapag-LLoyd, Co-funder of WIML&DS Trojmiasto
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,10 @@ organizations:
 bio: Curious, inquisitive and passionate Data Wrangler. Experience in conceptual work as a philosopher and planner, with knowledge of solving multi-layers processes. Mainly work with data-driven visualizations and data storytelling. PhD thesis on using space syntax methodology in creating design for all environment. Responsible for cooperating in Women in Machine Learning & Data Science local chapter. Fluent in SQL, Tableau, R, Shiny, Python, Machine Learning.
 
 interests:
-- Data Science
+- Philosophy
+- Urban planning
+- Space Syntax
+- Sustainable environment development
 
 
 # Social/Academic Networking
