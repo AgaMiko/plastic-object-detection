@@ -43,13 +43,13 @@ profile: true
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-## Bird song recognition
 
 The world's waste pollution is increasing.
 Every year more than 300 million tons of plastic are produced, which corresponds to the mass of ⅔ world population. It can be found almost everywhere, which is why the growing public awareness of recycling of this material and the harmful effects of litter on the environment is so great.
 For some time now, the Pomeranian Province has been recording an increase in the population rate, resulting from both population migration and natural growth. This has also brought about negative consequences, such as an increase in the level of waste pollution.
 The detectwaste project of the organization Women in Machine Learning & Data Science is addressing this issue. The aim of the project is to develop a tool for detecting waste from images and videos, with the possibility of later development and adaptation in environmental treatment systems.
-The Hack4Environment event, organized by the Digital Innovation Hub DIH4.AI in cooperation with WiMLDS, aims at performing environmental education activities aimed at different age groups, monitoring the environment and shaping social awareness and attitudes in the field of land protection.
+The **Hack4Environment** event, organized by the **Digital Innovation Hub DIH4.AI** in cooperation with **WiMLDS**, aims at performing environmental education activities aimed at different age groups, monitoring the environment and shaping social awareness and attitudes in the field of land protection.
+
 The tasks planned for the hackathon will be published soon.
 
 
