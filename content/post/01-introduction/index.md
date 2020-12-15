@@ -1,18 +1,18 @@
 ---
-title: 'Introduction'
-subtitle: 'How detectwaste.ml story begins :rocket:'
+title: Introduction
+subtitle: How detectwaste.ml story begins :rocket:
 summary: Read about our motivation, recycling and data.
+
 authors:
 - Maria Ferlin
 - admin
 tags:
 - statistics
 - rycycling
-categories:
-- project
-- statistics
+
 date: "2020-11-20T00:00:00Z"
 lastmod: "2020-11-20T00:00:00Z"
+
 featured: false
 draft: false
 # Featured image
@@ -20,10 +20,10 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
+  caption: 'Waste is everywhere. Let's do something about it.'
+  focal_point: ""
   placement: 2
-  caption: 'Waste is everywhere. Let's do something about it. [](waste.png)'
-  focal_point: "Center"
-  preview_only: true
+  preview_only: false
 ---
 
 # The beginning
@@ -32,7 +32,7 @@ We're happy to announce that Our project finally started! Just a quick reminder:
 
 In the next 5 months, we will meet together online and work in 2-weeks sprints on object detection. But, at first, let's take a closer look at the problem!
 
-# What kind of waste do we have?
+## What kind of waste do we have?
 
 Waste pollution is one of the biggest environmental issues in the modern world. The massive production of disposable goods in the last years resulted in an exponential increase in produced waste. It’s frightening how much waste we produce – it's about **2 billion tons every year** In these times, every single thing that we buy must be covered with some wrapping. Sometimes even peeled fruits are put into a plastic bag.
 
