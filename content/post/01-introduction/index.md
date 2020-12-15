@@ -1,30 +1,27 @@
 ---
 title: Introduction
-subtitle: How a detectwaste.ml story begins 
+subtitle: How a detectwaste.ml story begins
 summary: Read about our motivation, recycling and data.
-
-authors:
-- Maria Ferlin
-- Agnieszka Mikołajczyk
-- admin
-tags:
-- statistics
-- rycycling
 
 date: "2020-11-20T00:00:00Z"
 lastmod: "2020-11-20T00:00:00Z"
 
 featured: false
 draft: false
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+
 image:
   caption: 'Waste is everywhere. Let's do something about it.'
-  focal_point: ""
+  focal_point: "Center"
   placement: 2
   preview_only: false
+  
+authors:
+- Maria Ferlin
+- Agnieszka Mikolajczyk
+
+tags:
+- statistics
+- rycycling
 ---
 
 # The beginning
@@ -57,7 +54,7 @@ Right now, in Gdańsk we have five main waste categories:
 
 5. non-recyclable
 
-Additionaly, there are types of waste that does not fall into any of those categories I.e., batteries, tires or electric devices. We’ve created another category for it other (6).
+Additionaly, there are types of waste that does not fall into any of those categories I.e., batteries, tires or electric devices. We’ve created another category for it **"6. other"**.
 
 ![Gdańsk waste categories](https://detectwaste.ml/waste-categories/waste-gdansk.jpg)
 
@@ -83,6 +80,7 @@ We believe that this dataset may give some perspective to the overall problem wi
 
 ![](annotations_per_category.png)
 
-Sources: 
-[Degrade time](https://esbud.pl/zycie-smieci-jak-dlugo-rozkladaja-sie-odpady/)
-[Amount of wastes](https://odpady.net.pl/2020/09/23/smieci-to-ogromny-problem-naszych-czasow-jak-walczy-sie-z-nim-w-polsce-i-na-swiecie/)
+Source: 
+
+* [Degrade time](https://esbud.pl/zycie-smieci-jak-dlugo-rozkladaja-sie-odpady/)
+* [Amount of wastes](https://odpady.net.pl/2020/09/23/smieci-to-ogromny-problem-naszych-czasow-jak-walczy-sie-z-nim-w-polsce-i-na-swiecie/)
