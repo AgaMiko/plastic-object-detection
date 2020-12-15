@@ -11,7 +11,9 @@
 }
 
 .home-section.wg-starter-blog-intro .content {
-  text-align: center;
+  text-align:  justify;
+  width:  40em;
+  max-width: calc(100% - 4em);
 }
 
 .home-section > .content {

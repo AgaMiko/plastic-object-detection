@@ -32,7 +32,7 @@ In the next 5 months, we will meet together online and work in 2-weeks sprints o
 
 ## What kind of waste do we have?
 
-Waste pollution is one of the biggest environmental issues in the modern world. The massive production of disposable goods in the last years resulted in an exponential increase in produced waste. It’s frightening how much waste we produce – it's about **2 billion tons every year** In these times, every single thing that we buy must be covered with some wrapping. Sometimes even peeled fruits are put into a plastic bag.
+Waste pollution is one of the biggest environmental issues in the modern world. The massive production of disposable goods in the last years resulted in an exponential increase in produced waste. It’s frightening how much waste we produce – it's about **2 billion tons every year**. In these times, every single thing that we buy must be covered with some wrapping. Sometimes even peeled fruits are put into a plastic bag.
 
 However, our awareness is growing - we’re trying to reduce the amount of garbage and recycle as much as we can, but recycling isn’t as simple as it seems. It is essential to know where to put the trash if we want our work to make sense.
 
