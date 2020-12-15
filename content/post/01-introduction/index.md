@@ -15,7 +15,6 @@ date: "2020-11-20T00:00:00Z"
 lastmod: "2020-11-20T00:00:00Z"
 featured: false
 draft: false
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
@@ -25,7 +24,6 @@ image:
   caption: 'Waste is everywhere. Let's do something about it. [](waste.png)'
   focal_point: "Center"
   preview_only: true
-
 ---
 
 # The beginning
