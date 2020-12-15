@@ -1,10 +1,11 @@
 ---
 title: Introduction
-subtitle: How detectwaste.ml story begins :rocket:
+subtitle: How a detectwaste.ml story begins 
 summary: Read about our motivation, recycling and data.
 
 authors:
 - Maria Ferlin
+- Agnieszka Mikołajczyk
 - admin
 tags:
 - statistics
