@@ -10,7 +10,7 @@ featured: false
 draft: false
 
 image:
-  caption: 'Waste is everywhere. Let's do something about it.'
+  caption: 'Waste is everywhere. Lets do something about it.'
   focal_point: "Center"
   placement: 2
   preview_only: false
