@@ -16,6 +16,13 @@
   max-width: calc(100% - 4em);
 }
 
+.article-container {
+  max-width: 1200px;
+  padding: 0 20px 0 20px;
+  margin: 0 auto 0 auto;
+  text-align:  justify;
+}
+
 .home-section > .content {
   width: 45em;
   max-width: calc(100% - 4em);
