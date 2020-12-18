@@ -8,7 +8,7 @@ active = true # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
 title = "Read about our progress"
-subtitle = ""
+subtitle = "Recent blog posts"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -36,14 +36,14 @@ subtitle = ""
     enable = true
 
 [design]
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
