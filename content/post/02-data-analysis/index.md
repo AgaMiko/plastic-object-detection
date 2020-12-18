@@ -7,10 +7,10 @@ date: "2020-12-08T00:00:00Z"
 lastmod: "2020-12-08T00:00:00Z"
 
 featured: false
-draft: true
+draft: false
 
 image:
-  caption: 'Waste is everywhere. Lets do something about it.'
+  caption: 'In machine learning data is everything. Exploratory data analysis is a significant step.'
   focal_point: "Center"
   placement: 2
   preview_only: false
