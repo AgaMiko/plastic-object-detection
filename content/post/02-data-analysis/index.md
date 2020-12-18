@@ -154,7 +154,7 @@ plot_1.set_title('Annotations per detectwaste category',fontsize=20)
 
 ```
 
-!()[annotations_per_category.png]
+![](annotations_per_category.png)
 
 Information about number of objects per image also might be helpful during detection process. We need to know if the majority of images have only a single object or a few.
 
@@ -173,11 +173,11 @@ ax.set(xlabel='Number of annotations per image', ylabel='Image Count')
 
 ```
 
-!()[mean_number_of_annotations_per_image.png]
+![](mean_number_of_annotations_per_image.png)
 
 Some ML architectures require exact image size as an input, so it is worth to what size our data have so we could properly resize them. It also a good indicator of our general data quality.
 
-!()[number_of_images_per_image_shape.png]
+![](number_of_images_per_image_shape.png)
 
 To prevent some errors, knowing where most of objects occur in the image might be a useful information. For instance, if our objects appear only in the center of an image, we should consider applying data augmentation methods to make detector recognize objects in any place on the image.
 
@@ -198,15 +198,15 @@ plt.show()
 
 ```
 
-!()[placement_of_central_point_of_the_bbox_in_the_image.png]
+![](placement_of_central_point_of_the_bbox_in_the_image.png)
 
 Also, the size of bounding boxes is essential – we need to know if we will deal mostly with small or rather bigger objects. It is a well-known fact that even state-of-the-art detectors don’t work well with small objects.
 
-!()[bounding_box_size.png]
+![](bounding_box_size.png)
 
 As our images vary in size, the bounding box size is also relative. It is worth to know how many annotations we have per different bounding box sizes.
 
-!()[number_of_annotations_per_relative_bounding_box_size.png]
+![](number_of_annotations_per_relative_bounding_box_size.png)
 
 After this analysis we could start object detection process.
 
@@ -219,4 +219,4 @@ To sum up:
 * A lot of small objects - have to try architectures that are better with dealing with it
 * Many images in the “unknown” category – have to try to cut bounding boxes and train classifier. Then classify those unknown objects to get approximate categories
 
-You can find the source code (here)[https://github.com/wimlds-trojmiasto/detect-waste/blob/main/notebooks/exploratory-data-analysis.ipynb]
+You can find the source code [here](https://github.com/wimlds-trojmiasto/detect-waste/blob/main/notebooks/exploratory-data-analysis.ipynb)
