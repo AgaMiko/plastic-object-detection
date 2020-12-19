@@ -26,23 +26,23 @@ tags:
 
 # Detect waste dataset
 
-First and most important thing that is needed in any Machine Learning project is data. And usually, the more the better.
+The first and the most important thing that is needed in any Machine Learning project is data. And usually, the more the better.
 
-Data must be well-prepared: with good class balance, decent quality and proper annotation. They say: “**90% work on ML problem is data processing**”.
+To make the problem easuer, the data should be well-prepared: with good class balance, decent quality and proper annotation. They say: “**90% work on ML problem is data processing**”.
 
-Let’s see if it’s true.
+Let’s see if that is true.
 
 ### Taco dataset
 
-In Our project we are using [TACO dataset](tacodataset.org) - it’s an open image dataset of waste in the environment.
+In our project we are using [TACO dataset](tacodataset.org) -  an open image dataset of waste in the environment.
 
-We’ve managed to download over 4600 images – from which 1500 were annotated in [COCO format](https://detectwaste.ml/post/01-introduction/).
+We have managed to download over 4600 images – from which 1500 were annotated in [COCO format](https://detectwaste.ml/post/01-introduction/).
 
 ![TACO categories](http://tacodataset.org/img/cat_hist.png "TACO categories")
 
 ### Detect waste dataset
 
-As we decided to work on seven categories:
+We decided to work on the seven following categories:
 
 1. Metals and Plastic
 
@@ -58,7 +58,7 @@ As we decided to work on seven categories:
 
 7. Unknown
 
-We've decided to convert TACO categories to detect waste categories according to segregation rules obligatory in Gdańsk. You can see conversion script below:
+We converted TACO categories to detect waste categories according to the obligatory segregation rules of the city of Gdańsk. You can see the conversion script below:
 
 **Step 1.** Manually assign categories from TACO to detectwaste
 
@@ -122,15 +122,15 @@ for ann in anns:
     
 ```
 
-The rest of images were annotated in COCO format by [Epinote]( https://epinote.ai/] - our partner.
+The rest of the images were annotated in COCO format by [Epinote]( https://epinote.ai/] - our partner.
 
-Reassuming we’ve gathered over 4600 annotated images. For each image there is list of bounding boxes - one for each object with proper label.
+Reassuming we have gathered over 4600 annotated images. For each image there is a list of bounding boxes - one for each object with its corresponding label.
 
 ### Dataset analysis
 
-It’s extremely important to get to know how your dataset looks. It might be useful during system evaluation. Sometimes it happens that misclassification or other errors are caused by the imbalanced dataset or some wrong annotations. First thing that we’ve done was extracting from the dataset as much information as we could. Here are a few diagrams representing vital statistics.
+It is extremely important to get to know what your dataset looks like. It might be helpfull during the evaluation of the system. Sometimes it happens that misclassification or other errors are caused by the imbalance if the dataset or some erroneous annotations. The first thing that we did was extracting from the dataset as much information as we could. Here you can see a few diagrams representing vital statistics.
 
-To prevent the negative effects of data imbalance in our dataset, first we have to know how many images we have in each category. As you can see most of the trash found in our dataset is *metals and plastics*. Unfortunately, the second numerously represented category is *unknown* - the litter probably so decomposed that is hard to classify. This makes our dataset highly imbalanced and will require special attention in future.
+To prevent the negative effects of the data imbalance in our dataset, first we have to know how many images we have in each category. As you can see most of the trash found in our dataset is *metals and plastics*. Unfortunately, the second numerously represented category is *unknown* - the litter that has probably decomposed so much that it is hard to classify it. This makes our dataset highly imbalanced and will require special attention in future.
 
 ```python
 # Count annotations
@@ -156,7 +156,7 @@ plot_1.set_title('Annotations per detectwaste category',fontsize=20)
 
 ![](annotations_per_category.png)
 
-Information about number of objects per image also might be helpful during detection process. We need to know if the majority of images have only a single object or a few.
+Information about the number of objects per image might also be helpful during the detection process. We need to know if the majority of images contain only a single object or a few.
 
 ```python
 
@@ -175,13 +175,13 @@ ax.set(xlabel='Number of annotations per image', ylabel='Image Count')
 
 ![](mean_number_of_annotations_per_image.png)
 
-Some ML architectures require exact image size as an input, so it is worth to what size our data have so we could properly resize them. It also a good indicator of our general data quality.
+Some ML architectures require exact image size as an input, so it is worth to know what is the size of our data so that we could properly resize them. It also a good indicator of our general data quality.
 
 ![](number_of_images_per_image_shape.png)
 
-To prevent some errors, knowing where most of objects occur in the image might be a useful information. For instance, if our objects appear only in the center of an image, we should consider applying data augmentation methods to make detector recognize objects in any place on the image.
+Knowing where most of the objects occur in the image might be a useful information that can help us prevent some later errors. For instance, if our objects appear only in the center of an image, we should consider applying data augmentation methods to make the detector recognize objects in any other place in the image.
 
-Interestingly, in our case most of the objects are in the center. It might be due to the fact that also most images have only single object, typically in the center. In case of numerous objects, they usually are scattered through the whole image.
+Interestingly, in our case most of the objects are in the center. It might be due to the fact that at the same time most of the images contain only single object, typically in the center. In case of numerous objects, they usually are scattered through the whole image.
 
 ```python
 
@@ -193,30 +193,36 @@ for i in range(0, len(anns_detectwaste)):
             center_y.append((anns_detectwaste[i]['bbox'][1]+anns_detectwaste[i]['bbox'][3]/2)/dataset['images'][j]['height'])
 
 plt.plot(center_x, center_y, 'bo')
-plt.title('Placement of central point of the bbox in the image')
+plt.title('Placement of the central point of the bbox in the image')
 plt.show()
 
 ```
 
 ![](placement_of_central_point_of_the_bbox_in_the_image.png)
 
-Also, the size of bounding boxes is essential – we need to know if we will deal mostly with small or rather bigger objects. It is a well-known fact that even state-of-the-art detectors don’t work well with small objects.
+Also, the size of the bounding boxes is essential – we need to know if we will deal mostly with small or rather bigger objects. It is a well-known fact that even the state-of-the-art detectors do not work well with small objects.
 
 ![](bounding_box_size.png)
 
-As our images vary in size, the bounding box size is also relative. It is worth to know how many annotations we have per different bounding box sizes.
+As our images vary in size, the bounding box size is also relative. It is worth to know how many annotations per different bounding box sizes we have in our dataset.
 
 ![](number_of_annotations_per_relative_bounding_box_size.png)
 
-After this analysis we could start object detection process.
+After this analysis we are ready to start the object detection process.
 
 To sum up:
 
-* Noticeable class-imbalance:
-	* we will have to try out some data augmentation methods or weighted loss functions
-	* we have to take that into account when preparing dataset splits
+* Our dataset has a noticeable class-imbalance:
+	* we will have to try out some data augmentation methods or weighted loss functions to make up for the imbalance,
+	* we have to take the imbalance into account when preparing dataset splits,
 
-* A lot of small objects - have to try architectures that are better with dealing with it
-* Many images in the “unknown” category – have to try to cut bounding boxes and train classifier. Then classify those unknown objects to get approximate categories
+* The data contains a lot of small objects:
+	* we will have to try architectures that are better with dealing with small objects,
 
-You can find the source code [here](https://github.com/wimlds-trojmiasto/detect-waste/blob/main/notebooks/exploratory-data-analysis.ipynb)
+* Many images fall into the “unknown” category:
+	* we may try to cut images within bounding boxes and train a classifier. Perhaps then we will be able to classify those unknown objects to get their approximate categories.
+
+
+You can find the source code used in this blogpost [here](https://github.com/wimlds-trojmiasto/detect-waste/blob/main/notebooks/exploratory-data-analysis.ipynb).
+
+
