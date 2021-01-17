@@ -26,8 +26,8 @@ date_format = "02 Jan 2006"
   date_start = "2020-10-08"
   date_end = "2020-10-18"
   description = """"""
-  
-  
+
+
 [[experience]]
   title = "Participants selection"
   #company = "Online"
@@ -62,18 +62,18 @@ date_format = "02 Jan 2006"
   #company_url = ""
   location = "Gdańsk, Poland"
   date_start = "2020-11-24"
-  date_end = ""
+  date_end = "2020-12-22"
   description = "Literature review, basic models and common solutions"
-  
+
 [[experience]]
   title = "Model design, training &  testing"
   company = ""
   #company_url = ""
   location = "Gdańsk, Poland"
   date_start = "2020-12-22"
-  date_end = "2021-01-19"
-  description = "Going deeper - advanced models and applying to video"
-  
+  date_end = ""
+  description = "Going deeper - advanced models and data augmentation"
+
 [[experience]]
   title = "Final model selection"
   company = ""
