@@ -7,7 +7,7 @@ date: "2021-01-19T00:00:00Z"
 lastmod: "2021-01-19T00:00:00Z"
 
 featured: false
-draft: true
+draft: false
 
 image:
   caption: 'In machine learning data is everything. Regularization bring a significant improvements in accuracy.'
