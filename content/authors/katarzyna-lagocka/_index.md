@@ -50,7 +50,7 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/katarzynalagocka/
+  link: https://www.linkedin.com/in/katarzyna-%C5%82agocka-6a427a115/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Detect waste in the  environment
+bio: Detect waste in Pomerania
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -29,7 +29,7 @@ social:
   link: https://twitter.com/wimlds
 - icon: github
   icon_pack: fab
-  link: https://github.com/WiMLDS
+  link: https://github.com/wimlds-trojmiasto/detect-waste
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -45,15 +45,14 @@ user_groups:
 
 ---
 
-We come back with a new non-profit educational project from the *AI for Good* series! 
+**Detect waste** is a non-profit, educational, eco project that aims to use Artificial Intelligence for the general good. We have gathered a team of ten carefully selected members and five mentors to work together on the problem of the world’s waste pollution.
 
-This time we will focus on the problem of waste in the environment with strong emphasis on plastics. For *5 months (October-February)* we will learn together and work on a model for trash detection. The project is aimed at people from Tri-City, with at least intermediate Python knowledge and basic experience in Deep Learning. 
+For *5 months (October 2020 -February 2021)* we learn and work together on developing a model for trash detection. The project is aimed at people from Pomerania, with at least intermediate Python knowledge and an experience in Deep Learning.
 
-The project will be attended by up to 10 participants supported by mentors (employees of StyleSage, Voicelab, BrainScan and NASA).*
+Waste pollution is one of the biggest environmental issues in the modern world. The massive production of disposable goods in the last years resulted in an exponential increase in produced waste. It’s frightening how much waste we produce – it’s about 2 billion tons every year. In these times, every single thing that we buy must be covered with some wrapping. Sometimes even peeled fruits are put into a plastic bag.
 
-Data: we will use TACO DATASET (tacodataset.org).
+* **Repository**: [github.com/wimlds-trojmiasto/detect-waste](https://github.com/wimlds-trojmiasto/detect-waste)
+* **Data**: we use publicly available datasets such as [TACO dataset](tacodataset.org)
+* **Read more**: Read about our updates on our [blog](/post)
 
-
-* The project has no form of training, it is a team work during which we develop and learn together with the support of mentors. There will be introductory workshops on topics, technologies and libraries conducted by participants and mentors.  
-
-
+<iframe src="https://drive.google.com/file/d/1ixjc2KdNtEz2Vq3EtfISrfdRTqZpHs5P/preview" width="1200" height="700"></iframe>
