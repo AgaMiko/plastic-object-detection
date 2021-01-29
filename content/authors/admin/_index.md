@@ -54,5 +54,3 @@ Waste pollution is one of the biggest environmental issues in the modern world. 
 * **Repository**: [github.com/wimlds-trojmiasto/detect-waste](https://github.com/wimlds-trojmiasto/detect-waste)
 * **Data**: we use publicly available datasets such as [TACO dataset](tacodataset.org)
 * **Read more**: Read about our updates on our [blog](/post)
-
-<iframe src="https://drive.google.com/file/d/1ixjc2KdNtEz2Vq3EtfISrfdRTqZpHs5P/preview" width="1200" height="700"></iframe>
