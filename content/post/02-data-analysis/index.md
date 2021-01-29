@@ -21,7 +21,7 @@ authors:
 
 tags:
 - statistics
-- rycycling
+- recycling
 ---
 
 # Detect waste dataset
@@ -38,7 +38,7 @@ In our project we are using [TACO dataset](tacodataset.org) -  an open image dat
 
 We have managed to download over 4600 images – from which 1500 were annotated in [COCO format](https://detectwaste.ml/post/01-introduction/).
 
-![TACO categories](http://tacodataset.org/img/cat_hist.png "TACO categories")
+![TACO categories](cat_hist.png "TACO categories")
 
 ### Detect waste dataset
 
