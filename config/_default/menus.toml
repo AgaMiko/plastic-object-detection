@@ -12,18 +12,23 @@
   name = "About the project"
   url = "about/"
   weight = 20
+  
+[[main]]
+  name = "Blog"
+  url = "post/"
+  weight = 30
 
 [[main]]
   name = "Waste categories"
   url = "/waste-categories"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "How to contribute?"
   url = "contributing/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Other projects"
   url = "other-projects/"
-  weight = 50
+  weight = 60
