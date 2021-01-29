@@ -68,6 +68,7 @@ New annotated dataset was introduced in 2016 and called [Garbage In Images](http
 <center>
 <span style="color:grey; font-size:1em;"> Example annotations for three segmentation datasets.</span>
 </center>
+
 # Our goal
 
 In the Detect Waste in Pomerania project we focused on the problem of waste detection in the environment. Due to the poor availability of a large public dataset of annotated images of trash, we decided to divide our tasks into two stages. In the first step we mixed all found datasets with instance-level annotations (bounding boxes) to perform one class detection. The next step was to perform a classification of the found rubbish with even greater class granularity than planned at the beginning of the project. We will describe achieved results soon. Stay tuned!
