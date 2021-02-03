@@ -16,7 +16,7 @@ image:
   preview_only: false
 
 authors:
-- "Katarzyna Łagocka"
+- "Katarzyna Lagocka"
 
 tags:
 - AI
