@@ -35,7 +35,7 @@ date_format = "02 Jan 2006"
   #location = "Gdańsk, Poland"
   date_start = "2020-10-18"
   date_end = "2020-10-20"
-  description = """"""
+  description = "Summary: We have selected 7 outstanding women from various backgrounds to join our project."
 
 
 [[experience]]
@@ -45,7 +45,7 @@ date_format = "02 Jan 2006"
   location = "Gdańsk, Poland"
   date_start = "2020-10-27"
   date_end = "2020-11-03"
-  description = """"""
+  description = "Summary: First meeting and first sprint ended successfully. "
 
 [[experience]]
   title = "Collecting & analyzing data"
@@ -54,7 +54,7 @@ date_format = "02 Jan 2006"
   location = "Gdańsk, Poland"
   date_start = "2020-11-03"
   date_end = "2020-11-24"
-  description = "Getting to know TACO dataset, statistical analyzes"
+  description = "Goal: Getting to know TACO dataset, statistical analyzes. Summary: We have performed EDA with multiple statistics. It allowed u to plan the next sprint. We have decided about waste categorization: we follow Gdańsk recycling rules."
 
 [[experience]]
   title = "Model design & training"
@@ -63,7 +63,7 @@ date_format = "02 Jan 2006"
   location = "Gdańsk, Poland"
   date_start = "2020-11-24"
   date_end = "2020-12-22"
-  description = "Literature review, basic models and common solutions"
+  description = "Goal: Literature review, basic models and common solutions. Summary: We have selected a few detection models to check out and learn about: YOLO v4, DETR, EfficientDets. Additionaly we have checked one segmentation model: Masked RCNN. We have recived 3000 more annotated waste images form Epinote. We divided work into teams, so we can compare final results. Every team uploaded their work to our Github."
 
 [[experience]]
   title = "Model design, training &  testing"
@@ -71,8 +71,8 @@ date_format = "02 Jan 2006"
   #company_url = ""
   location = "Gdańsk, Poland"
   date_start = "2020-12-22"
-  date_end = ""
-  description = "Going deeper - advanced models and data augmentation"
+  date_end = "2021-01-19"
+  description = "Goal: Going deeper - advanced models and data augmentation. Summary: We have decided to focus only on EfficientDets which gave us the best results. Additionally we have started to try out some data augmentation techniques: classic transformations as zoom in/out, rotation but also color augmentation and artificial snow and rain. Moreover we have discovered multiple more datasets with waste designed for segmentation, detection and classification which we added to our TACO dataset. Huge boost of data made us to re-define models' pipeline."
 
 [[experience]]
   title = "Final model selection"
@@ -81,7 +81,7 @@ date_format = "02 Jan 2006"
   location = "Gdańsk, Poland"
   date_start = "2021-01-19"
   date_end = "2021-02-02"
-  description = "Finishing the project"
+  description = "Goal: Finishing the project. Summary: We have noticed that our models works drastically better when classifying only single class: litter. Moreover, we have over 100k images of litter for classification. Our final pipeline is to detect litter with EfficientDet model and classify detected waste into 7 categories with EfficientNet."
 
 
 [[experience]]
@@ -90,7 +90,7 @@ date_format = "02 Jan 2006"
   #company_url = ""
   location = "Gdańsk, Poland"
   date_start = "2021-02-02"
-  date_end = "2021-02-16"
+  date_end = ""
   description = "Finishing the project"
 
 +++
