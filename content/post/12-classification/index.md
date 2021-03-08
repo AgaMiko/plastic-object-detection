@@ -44,9 +44,9 @@ Additionally we have added the eight class: background, because it was necessary
 ## Training data
 
 To train our litter classifier we have used the extended version of our litter detection dataset mentioned in [previous post](https://detectwaste.ml/post/10-multidatasets-results/). Check it out to learn about our results on many publicly available datasets for waste localization.
-The idea behind building a dataset for waste classification was simple: gather as much data as possible, It was especially important for small classes such as bio or other. We broken it up into a few steps:
-**Step 1.** Cut the litter from the detection dataset:  the annotated bounding boxes from our dataset can be also used as an input to the classifier.
-**Step 2.** Use datasets prepared for classification: we have used data from TrashNet and waste pictures datasets.
+The idea behind building a dataset for waste classification was simple: gather as much data as possible, It was especially important for small classes such as bio or other. We broken it up into a few steps:<br>
+**Step 1.** Cut the litter from the detection dataset:  the annotated bounding boxes from our dataset can be also used as an input to the classifier.<br>
+**Step 2.** Use datasets prepared for classification: we have used data from TrashNet and waste pictures datasets.<br>
 **Step 3.** Scrap remaining data from the web:  to avoid huge data imbalance we have used Google Images Download to search and collect many images with bio and other waste, and also images that depicted scenes without the presence of garbage (background categories).
 
 <div style="text-align: center;">
