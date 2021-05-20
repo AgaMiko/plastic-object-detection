@@ -3,14 +3,14 @@ title: Summary of the project
 subtitle: The story behind a 5-month non-profit project
 summary: The story behind a 5-month non-profit project
 
-date: "2021-03-05T00:00:00Z"
-lastmod: "2021-03-05T00:00:00Z"
+date: "2021-05-01T00:00:00Z"
+lastmod: "2021-05-01T00:00:00Z"
 
 featured: false
 draft: false
 
 image:
-  caption: "Self-training method relies on making inference on unlabeled data and using created pseudo-labels in further training."
+  caption: "Over 80 commits to the official repository, 500 experiments, 1000 man hours, and thousands lines of code."
   focal_point: "Center"
   placement: 2
   preview_only: false
@@ -19,12 +19,9 @@ authors:
 - Agnieszka Mikolajczyk
 
 tags:
-- waste-sorting
-- waste-classification
-- evaluation
+- summary
 ---
 After five months and around 1000 (wo)man-hours of uphill battle we successfully finished our project. The "detect waste" will be a memorable experience for many of us. We finished with over 80 commits to the official repository, 500 experiments in 5 projects on neptune.ai (and untracked numerous trainings), thousands of lines of code.
-
 
 
 # Summary of the project
