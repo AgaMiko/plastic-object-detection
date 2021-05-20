@@ -18,14 +18,12 @@ subtitle = ""
   padding = ["60px", "0", "20px", "0"]
 +++
 
-There are several ways how you can help us:
+The project has finished in march 2021. There are several ways how you can help:
 
 * Upload your images [[here]](http://tacodataset.org/upload)
 * Annotate dataset [[here]](http://tacodataset.org/annotate)
-* Join our team
 * Contribute on github
 * Promote us on social media
 
-Soon we will publish app developed during the [Hack4Environment](https://detectwaste.ml/post/03-hack4environment/)
 
 <iframe src="https://drive.google.com/file/d/1wINc1xXW72kNXy8hzmRVBT_PfN6T_Dco/preview" width="1200" height="700"></iframe>
