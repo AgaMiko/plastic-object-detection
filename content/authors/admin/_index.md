@@ -47,10 +47,13 @@ user_groups:
 
 **Detect waste** is a non-profit, educational, eco project that aims to use Artificial Intelligence for the general good. We have gathered a team of ten carefully selected members and five mentors to work together on the problem of the world’s waste pollution.
 
-For *5 months (October 2020 -February 2021)* we learn and work together on developing a model for trash detection. The project is aimed at people from Pomerania, with at least intermediate Python knowledge and an experience in Deep Learning.
+For over *5 months (October 2020 - March 2021)* we learn and work together on developing a model for trash detection. The project is aimed at people from Pomerania, with at least intermediate Python knowledge and an experience in Deep Learning.
 
 Waste pollution is one of the biggest environmental issues in the modern world. The massive production of disposable goods in the last years resulted in an exponential increase in produced waste. It’s frightening how much waste we produce – it’s about 2 billion tons every year. In these times, every single thing that we buy must be covered with some wrapping. Sometimes even peeled fruits are put into a plastic bag.
 
 * **Repository**: [github.com/wimlds-trojmiasto/detect-waste](https://github.com/wimlds-trojmiasto/detect-waste)
-* **Data**: we use publicly available datasets such as [TACO dataset](tacodataset.org)
+* **Summary**: [detectwaste.ml/post/13-summary/](https://detectwaste.ml/post/13-summary/)
+* **Medium article**: [towardsdatascience.com/ai-to-combat-environmental-pollution](https://towardsdatascience.com/ai-to-combat-environmental-pollution-6d58b0bf6a1)
+* **Paper**: [Waste detection in Pomerania: non-profit project for detecting waste in environment (arxiv)](https://arxiv.org/abs/2105.06808)
+* **Data**: we use publicly available datasets. Or datasets used are listed in the arxiv paper
 * **Read more**: Read about our updates on our [blog](/post)

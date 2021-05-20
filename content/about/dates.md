@@ -87,10 +87,10 @@ date_format = "02 Jan 2006"
 [[experience]]
   title = "Summary"
   company = "Finishing the project"
-  #company_url = ""
+  company_url = "https://detectwaste.ml/post/13-summary/"
   location = "Gdańsk, Poland"
   date_start = "2021-02-02"
-  date_end = ""
-  description = "Finishing the project"
+  date_end = "2021-03-27"
+  description = "After five months and around 1000 (wo)man-hours of uphill battle we successfully finished our project. The “detect waste” will be a memorable experience for many of us. We finished with over 80 commits to the official repository, 500 experiments in 5 projects on neptune.ai (and untracked numerous trainings), thousands of lines of code. Click the link the summary."
 
 +++

@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
 title = "How to contribute?"
-subtitle = "Plastic object detection"
+subtitle = "Detect waste in Pomerania"
 
 [design.background]
   # Background color.
@@ -18,8 +18,7 @@ subtitle = "Plastic object detection"
  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
  image_position = "middle"  # Options include `left`, `center` (default), or `right`.
  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
- 
+
   # Text color (true=light or false=dark).
   text_color_light = true
 +++
-
