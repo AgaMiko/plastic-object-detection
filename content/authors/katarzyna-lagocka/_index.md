@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Java Developer, Mechatronics Engineer, Psychologist with Ph.D, Cisco Network Administrator
+role: Java Developer, Cisco Network Administrator
 
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a mechatronics engineer(Warsaw University of Technology) and I have Ph.D in Psychology(University of Gdańsk)
+
 
 interests:
 - Data Science, Data Analysis
@@ -30,18 +30,7 @@ education:
   - course: Cisco CCNA 
     institution: Gdańsk University 
     year: 2018 - 2019
-  - course: Postgraduate Studies, Programming and Databases  
-    institution: Gdańsk University of Technology
-    year: 2018 - 2019
-  - course: Industrial Informatics, Mechatronics Engineer 
-    institution: Warsaw University of Technology
-    year: 2014 - 2018
-  - course: Statistics Psychology, PhD
-    institution: University of Gdańsk
-    year: 2008 - 2013
-  - course: Psychology ,Master Degree
-    institution: University of Gdańsk
-    year: 2003 - 2008
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
